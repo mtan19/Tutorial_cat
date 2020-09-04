@@ -1,7 +1,7 @@
 # Building Website - Portfolio
+![](https://media.discordapp.net/attachments/749435458252963840/751261357491355698/unknown.png?width=1368&height=684)
+>Join us Saturday from 12 pm to 2 PM on Saturday 5th for a beginner website development tutorial on building your first site using the Bootstrap framework. Bootstrap is an easy to use frontend web development framework, which allows for responsive and cross-platform webpages. We are also going to show how to host it on GitHub with domain and without domain if time permits.
 
->Join us Saturday from 12 pm to 2 PM for a beginner website development tutorial on building your first site using the Bootstrap framework. Bootstrap is an easy to use frontend web development framework, which allows for responsive and cross-platform webpages. We are also going to show how to host it on GitHub with domain and without domain if time permits.
-https://codefi.club/img/logo_n.png
 ## Software/Tools Needed
 
 # Installing *Visual Studio Code*
@@ -18,9 +18,9 @@ https://code.visualstudio.com/
 – The [*Git* website](http://git-scm.com/)
 
 Choose one of the following options.
-- [Instructions for *Windows*](#file-windows-md)
-- [Instructions for *Mac*](#file-mac-md)
-- [Instructions for *Linux*](#file-linux-md)
+- [Instructions for *Windows*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/windows.md)
+- [Instructions for *Mac*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/mac.md)
+- [Instructions for *Linux*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/linux.md)
 
 # Installing *Github Desktop*
 
