@@ -28,3 +28,6 @@ Choose one of the following options.
 
 ## Starter Code
 >We will upload this on the day of the event.
+
+## Join our *Discord*
+> https://discord.gg/VzSWFWA
