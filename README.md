@@ -22,7 +22,7 @@ Choose one of the following options.
 - [Instructions for *Mac*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/mac.md)
 - [Instructions for *Linux*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/linux.md)
 
-# Installing *Github Desktop* (Choose either this option, Desktop, or both.)
+# Installing *Github Desktop* (Choose either this option, Git, or both.)
 
 – The [*GitHub Desktop* Download](https://desktop.github.com/)
 
