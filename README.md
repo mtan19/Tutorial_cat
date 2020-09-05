@@ -11,7 +11,7 @@
 https://code.visualstudio.com/
 ```
 
-# Installing *Git*
+# Installing *Git* (Choose either this option, Desktop, or both.)
 
 > *Git* is a [free and open source](http://git-scm.com/about/free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -22,7 +22,7 @@ Choose one of the following options.
 - [Instructions for *Mac*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/mac.md)
 - [Instructions for *Linux*](https://github.com/PranavPrashar/CodeFi-Frosh-Workshop/blob/master/linux.md)
 
-# Installing *Github Desktop*
+# Installing *Github Desktop* (Choose either this option, Desktop, or both.)
 
 – The [*GitHub Desktop* Download](https://desktop.github.com/)
 
