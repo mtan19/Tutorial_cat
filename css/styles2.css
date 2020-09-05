@@ -1,0 +1,21 @@
+.aTag {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -1.5rem;
+    margin-left: -1.5rem;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .Background-color{
+    background-color: #be1919 !important;
+  }
+
+  .Background-color2{
+      background-color: #000000 !important;
+  }
+
+  #navbar .Background-color2{
+      background-color: #be1919;
+  }
+  
